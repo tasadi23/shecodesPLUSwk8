@@ -1,4 +1,4 @@
-# shecodesBASICSwk8
+# shecodesPLUSwk8
 
 SheCodes Plus — Week 8 🌤️📅
 Week 8 was the grand finale where I built my Vanilla Weather Forecast project! This week, I planned carefully and combined everything I’ve learned — HTML, CSS, and JavaScript — to create a full-featured weather forecast app. It was so satisfying to see my app fetch and display weather data beautifully and dynamically! 🎉✨
